@@ -48,3 +48,8 @@ docker ps
 ## CI/CD
 
 O projeto possui workflows do GitHub Actions para execução automatizada dos testes em pushes e Pull Requests e validação no branch `main`.
+
+## Objetivo acadêmico
+
+Este projeto foi desenvolvido para demonstrar práticas de versionamento,
+integração contínua, entrega contínua e conteinerização com Docker.
