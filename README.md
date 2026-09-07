@@ -53,3 +53,11 @@ O projeto possui workflows do GitHub Actions para execução automatizada dos te
 
 Este projeto foi desenvolvido para demonstrar práticas de versionamento,
 integração contínua, entrega contínua e conteinerização com Docker.
+
+## Tecnologias utilizadas
+
+- Python 3.12
+- Pytest
+- Git e GitHub
+- GitHub Actions
+- Docker
