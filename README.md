@@ -61,3 +61,11 @@ integração contínua, entrega contínua e conteinerização com Docker.
 - Git e GitHub
 - GitHub Actions
 - Docker
+
+## Execução
+
+A aplicação pode ser executada localmente com Python ou por meio
+de um container Docker.
+
+Os testes automatizados garantem o funcionamento das principais
+operações matemáticas da aplicação.
